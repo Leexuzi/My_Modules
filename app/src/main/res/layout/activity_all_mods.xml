@@ -5,21 +5,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="16dp"
-    tools:context=".MainActivity">
+    tools:context=".AllMods">
 
     <TextView
-        android:id="@+id/modAP"
+        android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/modAP"
-        android:textSize="24dp" />
-
-    <TextView
-        android:id="@+id/modIP"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/modIP"
-        android:textSize="24dp" />
-
+        android:text="TextView" />
 </LinearLayout>

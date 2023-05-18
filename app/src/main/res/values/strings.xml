@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">My Modules</string>
+    <string name="modAP">C346 Android Programming</string>
+    <string name="modIP">C349 iPad Programming</string>
+
+    <string name="module_code">Module Code:\ </string>
+    <string name="module_name">Module Name:\ </string>
+    <string name="academic_year">Academic Year:\ </string>
+    <string name="semester">Semester:\ </string>
+    <string name="module_credit">Module Credit:\ </string>
+    <string name="venue">Venue:\ </string>
+    <string name="back">RETURN</string>
+
 </resources>
