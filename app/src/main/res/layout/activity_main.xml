@@ -13,13 +13,20 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/modAP"
-        android:textSize="24dp" />
+        android:textSize="24sp" />
 
     <TextView
         android:id="@+id/modIP"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/modIP"
-        android:textSize="24dp" />
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/allMod"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/allMods"
+        android:textSize="24sp" />
 
 </LinearLayout>
